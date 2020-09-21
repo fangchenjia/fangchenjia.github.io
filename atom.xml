@@ -3,11 +3,11 @@
   <title>爱代码的阿拉</title>
   
   <subtitle>code</subtitle>
-  <link href="http://172.23.135.87:4000/atom.xml" rel="self"/>
+  <link href="https://fangchenjia.gitee.io/atom.xml" rel="self"/>
   
-  <link href="http://172.23.135.87:4000/"/>
+  <link href="https://fangchenjia.gitee.io/"/>
   <updated>2020-09-18T14:38:16.690Z</updated>
-  <id>http://172.23.135.87:4000/</id>
+  <id>https://fangchenjia.gitee.io/</id>
   
   <author>
     <name>爱代码的阿拉</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>mysql基础</title>
-    <link href="http://172.23.135.87:4000/posts/8e40d0ad.html"/>
-    <id>http://172.23.135.87:4000/posts/8e40d0ad.html</id>
+    <link href="https://fangchenjia.gitee.io/posts/8e40d0ad.html"/>
+    <id>https://fangchenjia.gitee.io/posts/8e40d0ad.html</id>
     <published>2020-09-18T13:17:43.229Z</published>
     <updated>2020-09-18T14:38:16.690Z</updated>
     
@@ -34,17 +34,17 @@
     
     
     
-    <category term="mysql" scheme="http://172.23.135.87:4000/categories/mysql/"/>
+    <category term="mysql" scheme="https://fangchenjia.gitee.io/categories/mysql/"/>
     
     
-    <category term="mysql" scheme="http://172.23.135.87:4000/tags/mysql/"/>
+    <category term="mysql" scheme="https://fangchenjia.gitee.io/tags/mysql/"/>
     
   </entry>
   
   <entry>
     <title>hexo怎么写博客</title>
-    <link href="http://172.23.135.87:4000/posts/a6b3d09b.html"/>
-    <id>http://172.23.135.87:4000/posts/a6b3d09b.html</id>
+    <link href="https://fangchenjia.gitee.io/posts/a6b3d09b.html"/>
+    <id>https://fangchenjia.gitee.io/posts/a6b3d09b.html</id>
     <published>2020-09-16T01:25:00.000Z</published>
     <updated>2020-09-18T14:39:53.877Z</updated>
     
@@ -59,12 +59,12 @@
     
     
     
-    <category term="Markdown" scheme="http://172.23.135.87:4000/categories/Markdown/"/>
+    <category term="Markdown" scheme="https://fangchenjia.gitee.io/categories/Markdown/"/>
     
     
-    <category term="Hexo" scheme="http://172.23.135.87:4000/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://fangchenjia.gitee.io/tags/Hexo/"/>
     
-    <category term="Markdown" scheme="http://172.23.135.87:4000/tags/Markdown/"/>
+    <category term="Markdown" scheme="https://fangchenjia.gitee.io/tags/Markdown/"/>
     
   </entry>
   
